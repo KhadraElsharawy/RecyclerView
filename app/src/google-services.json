@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1080840475583",
+    "firebase_url": "https://recyclerview-54551.firebaseio.com",
+    "project_id": "recyclerview-54551",
+    "storage_bucket": "recyclerview-54551.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080840475583:android:4f85afa62e542865",
+        "android_client_info": {
+          "package_name": "com.example.basmet.recyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080840475583-g6tgtqj9kh93maoc0u5mn2535dk366a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuxPSG-PYCAjxTUcH_4i0x4TQw3DfflmU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
